@@ -1,0 +1,27 @@
+C:\Curso\Gerador QRCode\Gerador QRCode\bin\Debug\Gerador QRCode.exe.config
+C:\Curso\Gerador QRCode\Gerador QRCode\bin\Debug\Gerador QRCode.exe
+C:\Curso\Gerador QRCode\Gerador QRCode\bin\Debug\Gerador QRCode.pdb
+C:\Curso\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.csproj.AssemblyReference.cache
+C:\Curso\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.csproj.SuggestedBindingRedirects.cache
+C:\Curso\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador_QRCode.FrmMDI.resources
+C:\Curso\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador_QRCode.Properties.Resources.resources
+C:\Curso\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.csproj.GenerateResource.cache
+C:\Curso\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.csproj.CoreCompileInputs.cache
+C:\Curso\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.exe
+C:\Curso\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.pdb
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\bin\Debug\Gerador QRCode.exe.config
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\bin\Debug\Gerador QRCode.exe
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\bin\Debug\Gerador QRCode.pdb
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\bin\Debug\Entities.dll
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\bin\Debug\GoQR.Net.dll
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\bin\Debug\Entities.pdb
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\bin\Debug\GoQR.Net.pdb
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador_QRCode.FrmMDI.resources
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador_QRCode.Properties.Resources.resources
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.csproj.CopyComplete
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.exe
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\Gerador QRCode\obj\Debug\Gerador QRCode.pdb

@@ -1,0 +1,6 @@
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\GoQR.Net\bin\Debug\GoQR.Net.dll
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\GoQR.Net\bin\Debug\GoQR.Net.pdb
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\GoQR.Net\obj\Debug\GoQR.Net.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\GoQR.Net\obj\Debug\GoQR.Net.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\GoQR.Net\obj\Debug\GoQR.Net.dll
+C:\Users\gusta\Desktop\Projeto C#\Gerador QRCode\GoQR.Net\obj\Debug\GoQR.Net.pdb
