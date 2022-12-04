@@ -33,7 +33,7 @@
             this.cmbTamanho = new System.Windows.Forms.ComboBox();
             this.cmbCharsetSource = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.cmbCharsetTarget = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
             this.cmbEcc = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -100,14 +100,14 @@
             this.label3.TabIndex = 3;
             this.label3.Text = "Charset Source:";
             // 
-            // comboBox3
+            // cmbCharsetTarget
             // 
-            this.comboBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(8, 250);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(240, 24);
-            this.comboBox3.TabIndex = 6;
+            this.cmbCharsetTarget.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbCharsetTarget.FormattingEnabled = true;
+            this.cmbCharsetTarget.Location = new System.Drawing.Point(8, 250);
+            this.cmbCharsetTarget.Name = "cmbCharsetTarget";
+            this.cmbCharsetTarget.Size = new System.Drawing.Size(240, 24);
+            this.cmbCharsetTarget.TabIndex = 6;
             // 
             // label4
             // 
@@ -249,7 +249,7 @@
             this.Controls.Add(this.label6);
             this.Controls.Add(this.cmbEcc);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.comboBox3);
+            this.Controls.Add(this.cmbCharsetTarget);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.cmbCharsetSource);
             this.Controls.Add(this.label3);
@@ -258,6 +258,7 @@
             this.Controls.Add(this.label1);
             this.Name = "ucQRConfig";
             this.Size = new System.Drawing.Size(525, 424);
+            this.Load += new System.EventHandler(this.ucQRConfig_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -270,7 +271,7 @@
         private System.Windows.Forms.ComboBox cmbTamanho;
         private System.Windows.Forms.ComboBox cmbCharsetSource;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.ComboBox comboBox3;
+        private System.Windows.Forms.ComboBox cmbCharsetTarget;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox cmbEcc;
         private System.Windows.Forms.Label label5;
